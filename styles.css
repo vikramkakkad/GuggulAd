@@ -75,7 +75,7 @@ body, html {
     padding: 15px;
     border-radius: 10px;
     text-align: center;
-    font-size: 2.9rem;
+    font-size: 1.9rem;
     line-height: 1.4;
     z-index: 5;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
@@ -85,7 +85,7 @@ body, html {
 /* Slide 4 પર ઇમેજ પોતે જ પૂરેપૂરી માહિતી બતાવે છે, એટલે caption ને થોડું નાનું/નીચે રાખેલ છે */
 .contact-box .floating-caption {
     bottom: 8px;
-    font-size: 2.7rem;
+    font-size: 1.7rem;
     padding: 10px;
 }
 
